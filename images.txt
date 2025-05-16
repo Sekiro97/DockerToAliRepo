@@ -6,4 +6,4 @@ nacos/nacos-server:v2.4.3
 #redis
 #mysql:8.0.27
 #docker.n8n.io/n8nio/n8n:latest
-#java:8.0
+java:1.8
