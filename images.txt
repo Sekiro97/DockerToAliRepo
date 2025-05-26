@@ -2,7 +2,7 @@
 #nginx:1.27.2
 #mysql:5.7
 #nacos/nacos-server:v2.4.3
-#nacos/nacos-server:v2.1.0
+nacos/nacos-server:v2.1.0
 #redis
 #openjdk:8
 #registry:2
