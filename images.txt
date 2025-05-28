@@ -1,7 +1,7 @@
 #redis:7.4.1
 #nginx:1.27.2
-mysql:5.7
-mysql:8.0.27
+#mysql:5.7
+#mysql:8.0.27
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
@@ -11,4 +11,4 @@ mysql:8.0.27
 #calico/cni:v3.20.6
 #calico/node:v3.20.6
 #calico/kube-controllers:v3.20.6
-#nginx:1.14.2
+tomcat:9.0.55
