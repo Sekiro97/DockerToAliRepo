@@ -21,5 +21,5 @@
 #quay.io/prometheus/node-exporter:v1.3.1
 #quay.io/prometheus/alertmanager:v0.23.0
 #quay.io/ceph/ceph-grafana:8.3.5
-quay.io/external_storage/nfs-client-provisioner:v2.0.0
+#quay.io/external_storage/nfs-client-provisioner:v2.0.0
 
