@@ -22,5 +22,6 @@
 #quay.io/prometheus/alertmanager:v0.23.0
 #quay.io/ceph/ceph-grafana:8.3.5
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-busybox:stable
+#busybox:stable
+quay.io/external_storage/cephfs-provisioner:latest
 
