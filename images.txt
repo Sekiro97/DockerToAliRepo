@@ -24,4 +24,5 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #busybox:stable
 #quay.io/external_storage/cephfs-provisioner:latest
-quay.io/external_storage/rbd-provisioner:latest
+#quay.io/external_storage/rbd-provisioner:latest
+registry.k8s.io/ingress-nginx/controller:v1.12.3@sha256:ac444cd9515af325ba577b596fe4f27a34be1aa330538e8b317ad9d6c8fb94ee
