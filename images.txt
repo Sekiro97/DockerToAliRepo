@@ -25,5 +25,6 @@
 #busybox:stable
 #quay.io/external_storage/cephfs-provisioner:latest
 #quay.io/external_storage/rbd-provisioner:latest
-k8s.gcr.io/ingress-nginx/controller:v0.44.0
-docker.io/jettech/kube-webhook-certgen:v1.5.1
+#k8s.gcr.io/ingress-nginx/controller:v0.44.0
+#docker.io/jettech/kube-webhook-certgen:v1.5.1
+httpd
