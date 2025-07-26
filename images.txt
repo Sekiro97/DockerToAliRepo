@@ -1,10 +1,5 @@
 #redis:7.4.1
 #nginx:1.27.2
-#mysql:5.7
-#mysql:8.0.27
-#nacos/nacos-server:v2.4.3
-#nacos/nacos-server:v2.1.0
-#redis
 #openjdk:8
 #registry:2
 #calico/pod2daemon-flexvol:v3.20.6
@@ -27,4 +22,4 @@
 #quay.io/external_storage/rbd-provisioner:latest
 #k8s.gcr.io/ingress-nginx/controller:v0.44.0
 #docker.io/jettech/kube-webhook-certgen:v1.5.1
-httpd
+osixia/keepalived:2.0.20
