@@ -24,4 +24,5 @@
 #docker.io/jettech/kube-webhook-certgen:v1.5.1
 #osixia/keepalived:2.0.20
 #haproxytech/haproxy-debian:2.3
-prom/prometheus:v2.37.1
+#prom/prometheus:v2.37.1
+quay.io/prometheus/node-exporter:latest
