@@ -23,4 +23,5 @@
 #k8s.gcr.io/ingress-nginx/controller:v0.44.0
 #docker.io/jettech/kube-webhook-certgen:v1.5.1
 #osixia/keepalived:2.0.20
-haproxytech/haproxy-debian:2.3
+#haproxytech/haproxy-debian:2.3
+prom/prometheus:v2.37.1
