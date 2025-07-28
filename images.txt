@@ -26,4 +26,5 @@
 #haproxytech/haproxy-debian:2.3
 #prom/prometheus:v2.37.1
 #quay.io/prometheus/node-exporter:latest
-grafana/grafana:latest
+#grafana/grafana:latest
+prom/alertmanager:latest
