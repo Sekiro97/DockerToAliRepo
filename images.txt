@@ -1,7 +1,7 @@
 #redis:7.4.1
 #nginx:1.27.2
 #openjdk:8
-#registry:2
+registry:2
 #calico/pod2daemon-flexvol:v3.20.6
 #calico/cni:v3.20.6
 #calico/node:v3.20.6
@@ -28,4 +28,4 @@
 #quay.io/prometheus/node-exporter:latest
 #grafana/grafana:latest
 #prom/alertmanager:latest
-mysql:8.0
+#mysql:8.0
