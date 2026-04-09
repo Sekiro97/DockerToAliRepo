@@ -6,7 +6,7 @@
 #calico/cni:v3.20.6
 #calico/node:v3.20.6
 #calico/kube-controllers:v3.20.6
-#tomcat:9.0.55
+tomcat:9.0.55
 #kubernetesui/metrics-scraper:v1.0.7
 #kubernetesui/dashboard:v2.4.0
 #quay.io/cephcsi/cephcsi:canary
@@ -30,4 +30,4 @@
 #prom/alertmanager:latest
 #mysql:8.0
 #docker.elastic.co/logstash/logstash:8.14.3
-docker.elastic.co/beats/filebeat:8.13.2
+#docker.elastic.co/beats/filebeat:8.13.2
