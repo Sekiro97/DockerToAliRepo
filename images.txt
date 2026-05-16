@@ -1,4 +1,4 @@
-#redis:7.4.1
+redis:7.4.1
 #nginx:1.27.2
 #openjdk:8
 #registry:2
@@ -6,7 +6,7 @@
 #calico/cni:v3.20.6
 #calico/node:v3.20.6
 #calico/kube-controllers:v3.20.6
-tomcat:9.0.55
+#tomcat:9.0.55
 #kubernetesui/metrics-scraper:v1.0.7
 #kubernetesui/dashboard:v2.4.0
 #quay.io/cephcsi/cephcsi:canary
