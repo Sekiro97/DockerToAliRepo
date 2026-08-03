@@ -1,4 +1,4 @@
-redis:7.4.1
+#redis:7.4.1
 #nginx:1.27.2
 #openjdk:8
 #registry:2
@@ -31,3 +31,4 @@ redis:7.4.1
 #mysql:8.0
 #docker.elastic.co/logstash/logstash:8.14.3
 #docker.elastic.co/beats/filebeat:8.13.2
+haproxytech/haproxy-debian:2.3
