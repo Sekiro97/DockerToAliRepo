@@ -31,4 +31,7 @@
 #mysql:8.0
 #docker.elastic.co/logstash/logstash:8.14.3
 #docker.elastic.co/beats/filebeat:8.13.2
-haproxytech/haproxy-debian:2.3
+#haproxytech/haproxy-debian:2.3
+docker.io/calico/cni:v3.28.4
+docker.io/calico/node:v3.28.4
+docker.io/calico/kube-controllers:v3.28.4
