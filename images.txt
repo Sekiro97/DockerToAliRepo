@@ -43,4 +43,5 @@
 #container-registry.oracle.com/mysql/mysql-shell:8.4.10
 #container-registry.oracle.com/mysql/mysql-operator-sidecar:9.7.0-2.2.8
 #kubeguide/tomcat-app:v1
-registry.k8s.io/ingress-nginx/controller:v1.11.5
+#registry.k8s.io/ingress-nginx/controller:v1.11.5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
