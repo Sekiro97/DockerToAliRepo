@@ -38,7 +38,7 @@
 #registry.k8s.io/pause:3.6
 
 #container-registry.oracle.com/mysql/community-operator:9.7.0-2.2.8
-container-registry.oracle.com/mysql/mysql-server:8.4.10
+#container-registry.oracle.com/mysql/mysql-server:8.4.10
 #container-registry.oracle.com/mysql/mysql-router:8.4.10
 #container-registry.oracle.com/mysql/mysql-shell:8.4.10
-#container-registry.oracle.com/mysql/mysql-operator-sidecar:9.7.0-2.2.8
+container-registry.oracle.com/mysql/mysql-operator-sidecar:9.7.0-2.2.8
