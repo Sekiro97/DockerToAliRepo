@@ -47,3 +47,4 @@ registry.k8s.io/coredns/coredns:v1.11.1
 #kubeguide/tomcat-app:v1
 #registry.k8s.io/ingress-nginx/controller:v1.11.5
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
+container-registry.oracle.com/mysql/community-server:8.4.10
