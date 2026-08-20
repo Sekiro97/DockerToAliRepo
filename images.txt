@@ -38,8 +38,7 @@
 #docker.io/calico/node:v3.28.4
 #docker.io/calico/kube-controllers:v3.28.4
 #registry.k8s.io/pause:3.6
-registry.k8s.io/coredns/coredns:v1.11.1
-#container-registry.oracle.com/mysql/community-operator:9.7.0-2.2.8
+#registry.k8s.io/coredns/coredns:v1.11.1
 #container-registry.oracle.com/mysql/mysql-server:8.4.10
 #container-registry.oracle.com/mysql/mysql-router:8.4.10
 #container-registry.oracle.com/mysql/mysql-shell:8.4.10
@@ -47,4 +46,8 @@ registry.k8s.io/coredns/coredns:v1.11.1
 #kubeguide/tomcat-app:v1
 #registry.k8s.io/ingress-nginx/controller:v1.11.5
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
+
+# mysql集群 k8s部署
+container-registry.oracle.com/mysql/community-operator:9.7.0-2.2.8
 container-registry.oracle.com/mysql/community-server:8.4.10
+container-registry.oracle.com/mysql/community-router:8.4.10
