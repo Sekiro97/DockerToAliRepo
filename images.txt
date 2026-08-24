@@ -54,3 +54,4 @@ container-registry.oracle.com/mysql/community-router:8.4.10
 
 # nacos集群 k8s部署
 nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-server:v2.5.0
