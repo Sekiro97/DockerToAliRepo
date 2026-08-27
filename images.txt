@@ -8,7 +8,7 @@
 #calico/kube-controllers:v3.20.6
 #tomcat:9.0.55
 #tomcat:8.0
-busybox-extras:1.36.1
+busybox-extras:latest
 #kubernetesui/metrics-scraper:v1.0.7
 #kubernetesui/dashboard:v2.4.0
 #quay.io/cephcsi/cephcsi:canary
