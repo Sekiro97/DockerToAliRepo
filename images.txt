@@ -1,5 +1,7 @@
 #redis:7.4.1
 #nginx:1.27.2
+nginx:1.7.9
+nginx:1.9.1
 #openjdk:8
 #registry:2
 #calico/pod2daemon-flexvol:v3.20.6
