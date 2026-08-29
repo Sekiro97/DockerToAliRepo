@@ -10,6 +10,7 @@ nginx:1.30.4
 #tomcat:9.0.55
 #tomcat:8.0
 alpine:3.20
+nacos/nacos-server:v2.5.3
 #kubernetesui/metrics-scraper:v1.0.7
 #kubernetesui/dashboard:v2.4.0
 #quay.io/cephcsi/cephcsi:canary
