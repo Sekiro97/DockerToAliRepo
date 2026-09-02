@@ -9,8 +9,8 @@
 #calico/kube-controllers:v3.20.6
 #tomcat:9.0.55
 #tomcat:8.0
-fluent/fluentd:v1.19.2-2.4
-nacos/nacos-server:v2.5.3
+#fluent/fluentd:v1.19.2-2.4
+#nacos/nacos-server:v2.5.3
 #kubernetesui/metrics-scraper:v1.0.7
 #kubernetesui/dashboard:v2.4.0
 #quay.io/cephcsi/cephcsi:canary
@@ -49,6 +49,7 @@ nacos/nacos-server:v2.5.3
 #registry.k8s.io/ingress-nginx/controller:v1.11.5
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
 
+mongo:8.0.29
 # mysql集群 k8s部署
 container-registry.oracle.com/mysql/community-operator:9.7.0-2.2.8
 container-registry.oracle.com/mysql/community-server:8.4.10
