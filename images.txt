@@ -49,7 +49,7 @@
 #registry.k8s.io/ingress-nginx/controller:v1.11.5
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
 
-mongo:8.0.29
+#mongo:8.0.29
 # mysql集群 k8s部署
 #container-registry.oracle.com/mysql/community-operator:9.7.0-2.2.8
 #container-registry.oracle.com/mysql/community-server:8.4.10
@@ -63,4 +63,7 @@ mongo:8.0.29
 #registry.k8s.io/metrics-server/metrics-server:v0.7.2
 
 # metrics server 压力测试工具
-containerstack/alpine-stress:latest
+#containerstack/alpine-stress:latest
+
+# prometheus-adapter k8s业务指标数据采集适配器
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
