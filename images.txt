@@ -77,3 +77,4 @@ quay.io/brancz/kube-rbac-proxy:v0.18.1
 grafana/grafana:11.2.0
 quay.io/prometheus/blackbox-exporter:v0.25.0
 ghcr.io/jimmidyson/configmap-reload:v0.13.1
+quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
