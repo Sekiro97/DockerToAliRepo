@@ -66,4 +66,5 @@
 #containerstack/alpine-stress:latest
 
 # prometheus-adapter k8s业务指标数据采集适配器
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+#registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+quay.io/prometheus/alertmanager:v0.27.0
