@@ -82,4 +82,7 @@
 # jdk 17基础镜像
 #eclipse-temurin:17-jre-jammy
 # jdk 11基础镜像
-eclipse-temurin:11-jre
+#eclipse-temurin:11-jre
+
+# xxl-job
+xuxueli/xxl-job-admin:3.4.0
