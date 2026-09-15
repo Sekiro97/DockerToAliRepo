@@ -80,4 +80,6 @@
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.76.2
 
 # jdk 17基础镜像
-eclipse-temurin:17-jre-jammy
+#eclipse-temurin:17-jre-jammy
+# jdk 11基础镜像
+eclipse-temurin:11-jre
